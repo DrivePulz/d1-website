@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /inquiries.log
+
+Sitemap: https://www.d1propertygroup.com/sitemap.xml
